@@ -1,2 +1,2 @@
 # 2022Project
-All my programs I made in 2022.
+All of the programs I made in 2022.
