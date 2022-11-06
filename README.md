@@ -1,5 +1,5 @@
 # 2022Project
-All of the programs I made in 2022.
+All of the programs I made in 2022. The starting point of the blood trail from banging my head against the wall :D
 
 Just some Progress marker I guess you could call it.
 Just incase I want to look back at the way I programmed before and say
