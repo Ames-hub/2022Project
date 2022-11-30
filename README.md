@@ -1,9 +1,7 @@
 # 2022Project
 All of the programs I made in 2022. The starting point of the blood trail from banging my head against the wall :D
 
-Just some Progress marker I guess you could call it.
-Just incase I want to look back at the way I programmed before and say
-"Wow... I was fucking terrible at programming!"
+These are all my small side-projects that I don't intend to maintain. Anything that's bigger than 1 file or is something that I intend to actively maintain will be put in its own repository :)
 
-If for some ungodly reason beyond my understanding decide that you want to use one of my scripts, Feel free to use it in whatever you want.
+If for some ungodly reason beyond my understanding decide that you want to use one of my scripts in This repository, Feel free to use it in whatever you want.
 Seriously though, there are way better ones out there
